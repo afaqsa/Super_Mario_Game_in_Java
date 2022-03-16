@@ -1,0 +1,9 @@
+com\mycompany\super_mario\Game.class
+com\mycompany\super_mario\Handler.class
+com\mycompany\super_mario\Id.class
+com\mycompany\super_mario\entity\Entity.class
+com\mycompany\super_mario\entity\powerup\Mashroom.class
+com\mycompany\super_mario\tile\Tile.class
+com\mycompany\super_mario\input\KeyInput.class
+com\mycompany\super_mario\tile\Wall.class
+com\mycompany\super_mario\entity\Player.class
